@@ -57,7 +57,7 @@ git add file-name
 Reference : [Git Commit Message Template](../../GIT-COMMIT-TEMPLATE.md)
 
 ```sh
-git commit -m "tag : Message"
+git commit -m "documentation : Message"
 ```
 
 ## Pushing the code to Remote Branch `documentation` (For the 1st Time)
@@ -85,7 +85,7 @@ git merge documentation --no-ff
 ## Commit with a Tag & Message of why the merge is necessary
 
 ```sh
-tag : Message
+documentation : Message
 ```
 
 - Enter `i`
