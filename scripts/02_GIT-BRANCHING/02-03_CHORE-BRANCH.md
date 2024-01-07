@@ -52,7 +52,7 @@ git add file-name
 Reference : [Git Commit Message Template](../../GIT-COMMIT-TEMPLATE.md)
 
 ```sh
-git commit -m "tag : Message"
+git commit -m "chore : Message"
 ```
 
 ## Pushing the code to Remote Branch `chore` (For the 1st Time)
@@ -80,7 +80,7 @@ git merge chore --no-ff
 ## Commit with a Tag & Message of why the merge is necessary
 
 ```sh
-tag : Message
+chore : Message
 ```
 
 - Enter `i`
