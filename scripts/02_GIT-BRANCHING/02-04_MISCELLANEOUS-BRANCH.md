@@ -54,7 +54,7 @@ git add file-name
 Reference : [Git Commit Message Template](../../GIT-COMMIT-TEMPLATE.md)
 
 ```sh
-git commit -m "tag : Message"
+git commit -m "miscellaneous : Message"
 ```
 
 ## Pushing the code to Remote Branch `miscellaneous` (For the 1st Time)
@@ -82,7 +82,7 @@ git merge miscellaneous --no-ff
 ## Commit with a Tag & Message of why the merge is necessary
 
 ```sh
-tag : Message
+miscellaneous : Message
 ```
 
 - Enter `i`
