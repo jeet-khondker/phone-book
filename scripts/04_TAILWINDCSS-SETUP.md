@@ -52,7 +52,7 @@ yarn start
 ## Using Tailwind CSS in ReactJS Project
 
 ```jsx
-export const App = () => {
+const App = () => {
   return (
     <main className="App">
       <header className="App-header">
@@ -61,6 +61,8 @@ export const App = () => {
     </main>
   );
 }
+
+export default App;
 ```
 
 ## Result
