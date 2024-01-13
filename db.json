@@ -3,31 +3,31 @@
         {
             "id" : 1,
             "name" : "Abu Hannan",
-            "phont" : "+880 1714-44561",
+            "phone" : "+880 1714-44561",
             "email" : "abuhannan@gmail.com"
         },
         {
             "id" : 2,
             "name" : "Tokyo Legal Affairs Bureau Fuchu Branch (法務局)",
-            "phont" : "+81 042-335-4753",
+            "phone" : "+81 042-335-4753",
             "email" : "〒102-8225 東京都千代田区九段南1丁目1番15号"
         },
         {
             "id" : 3,
             "name" : "Md. Rifat Hossain",
-            "phont" : "+880 1818-331466",
+            "phone" : "+880 1818-331466",
             "email" : "rifathossain@gmail.com"
         },
         {
             "id" : 4,
             "name" : "Rifat Khan",
-            "phont" : "+880 1311-933960",
+            "phone" : "+880 1311-933960",
             "email" : "rifatkhan@gmail.com"
         },
         {
             "id" : 5,
             "name" : "Jeet Z. H. Khondker",
-            "phont" : "+81 080-2132-6533",
+            "phone" : "+81 080-2132-6533",
             "email" : "jeetzhkhondker@gmail.com"
         }
     ]
