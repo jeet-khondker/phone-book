@@ -12,7 +12,7 @@ The purpose of this file is to document the workflow of the Git operations for t
 
 4. And Also Make Sure you have completed the workflow of the file `02-03_CHORE-BRANCH.md` inside `scripts/02_GIT-BRANCHING` Directories.
 
-5. 4. And Also Make Sure you have completed the workflow of the file `02-04_MISCELLANEOUS-BRANCH.md` inside `scripts/02_GIT-BRANCHING` Directories.
+5. And Also Make Sure you have completed the workflow of the file `02-04_MISCELLANEOUS-BRANCH.md` inside `scripts/02_GIT-BRANCHING` Directories.
 
 ## Creating a new branch `refactor`
 
