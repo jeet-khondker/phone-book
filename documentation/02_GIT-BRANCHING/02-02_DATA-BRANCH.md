@@ -4,9 +4,7 @@ The purpose of this file is to document the workflow of the Git operations for t
 
 ## 🔥 Pre-Requisites
 
-1. Make Sure you have completed the workflow of the file `01_INITIAL-SETUP.md` inside `scripts` Directory.
-
-2. Make Sure you have completed the workflow of the file `02-01_DOCUMENTATION-BRANCH.md` inside `scripts/02_GIT-BRANCHING` Directories.
+Make Sure you have completed the workflow of the file `01_INITIAL-SETUP.md` inside `scripts` Directory.
 
 ## Creating a new branch `data`
 
