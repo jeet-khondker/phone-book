@@ -29,7 +29,7 @@ git commit -m "documentation : Updated README File"
 **Commit Message with reference of PR (Pull Request) for a new feature**
 
 ```sh
-git commit -m "refs !1234 feature : Created Functionality for Password Validation"
+git commit -m "ref !1234 feature : Created Functionality for Password Validation"
 ```
 
 **Commit Message with reference of Issue / Task**
