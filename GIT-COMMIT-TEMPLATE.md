@@ -32,10 +32,10 @@ git commit -m "documentation : Updated README File"
 git commit -m "ref !1234 feature : Created Functionality for Password Validation"
 ```
 
-**Commit Message with reference of Issue / Task**
+**Commit Message with reference of Issue for an existing style-related task**
 
 ```sh
-git commit -m "style (#1234) : Fixed Margin and Padding Design Issue for User Login Screen"
+git commit -m "ref #1234 style : Fixed Margin and Padding Design Issue for User Login Screen"
 ```
 
 **Commit Message in the past (if you forget to commit on that particular date in the past)**
