@@ -43,3 +43,11 @@ git commit -m "ref #1234 style : Fixed Margin and Padding Design Issue for User 
 ```sh
 git commit --date="1 day ago" -m "feature : Added Test ID Attribute to 404 Not Found Page"
 ```
+
+**Avoid Merge Conflicts**
+
+Avoid Merge Conflicts by running the following command at the beginning of the work
+
+```sh
+git pull
+```
