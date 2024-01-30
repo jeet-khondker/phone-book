@@ -71,7 +71,7 @@ Yarn is a popular alternative package manager to NPM for managing JavaScript pac
 2. Do the following as follows:
 ![Yarn Website](/documentation/images/Yarn-Website.png)
 3. Download the Yarn Installer for Windows OS.
-![Yarn Windows Installer](/scripts/images/Yarn-Windows-Installer.png)
+![Yarn Windows Installer](/documentation/images/Yarn-Windows-Installer.png)
 4. Run the Installer and follow the on-screen instructions.
 
 ### 👉🏻 For MacOS Users
