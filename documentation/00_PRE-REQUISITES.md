@@ -19,7 +19,7 @@ Please make sure you have all the following installed on your own machine.
 
 1. Visit the [NodeJS Website](https://nodejs.org/en)
 2. Download the `LTS (Long Term Support) Version which is Recommended For Most Users` as it is more stable.
-![NodeJS Website](/scripts/images/NodeJS.png)
+![NodeJS Website](/documentation/images/NodeJS.png)
 3. Run the MacOS Installer (`.pkg`) file and follow the On-Screen Instructions.
 
 ### 👉🏻 For Linux OS Users
