@@ -67,6 +67,6 @@ export default App;
 
 ## Result
 
-![Website after Applying Tailwind CSS](/scripts/images/Applying-TWCSS.png)
+![Website after Applying Tailwind CSS](/documentation/images/Applying-TWCSS.png)
 
 > **Now, Tailwind CSS has been successfully installed in the ReactJS Project.**
