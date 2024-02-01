@@ -21,25 +21,25 @@
 
 [Favicon Icon Generator](https://favicon.io/)
 
-![Favicon Icon Generator Website](/scripts/images/Favicon-Icon-Generator.png)
+![Favicon Icon Generator Website](/documentation/images/Favicon-Icon-Generator.png)
 
 `😎 → ICO` has been used in this project.
 
 From the `Categories` Dropdown List, select Object to generate the Favicon Icon Image.
 
-![Emoji To ICO Selection](/scripts/images/Emoji-ICO-Selection.png)
+![Emoji To ICO Selection](/documentation/images/Emoji-ICO-Selection.png)
 
 Scrolling down and finding out the relevant icon that matches with the context of the application is very important.
 
-![Icon Selection](/scripts/images/Icon-Selection.png)
+![Icon Selection](/documentation/images/Icon-Selection.png)
 
 Click `Download` to download the Icon
 
-![Icon Selection](/scripts/images/Download-Icon.png)
+![Icon Selection](/documentation/images/Download-Icon.png)
 
 After the download has been completed, extract the files from the ZIP File.
 
-![File Details](/scripts/images/File-Details.png)
+![File Details](/documentation/images/File-Details.png)
 
 Rename the following files : 
 
@@ -106,19 +106,19 @@ Update the `manifest.json` like below :
 
 2. Scroll down and Click `Choose File`
 
-![Convert PNG to SVG](/scripts/images/PNG-SVG-Converter.png)
+![Convert PNG to SVG](/documentation/images/PNG-SVG-Converter.png)
 
 3. Select `logo512.png`
 
-![Select PNG File](/scripts/images/File-Selection.png)
+![Select PNG File](/documentation/images/File-Selection.png)
 
 4. Click on `Generate` by scrolling down
 
-![Generate SVG](/scripts/images/Generate-SVG.png)
+![Generate SVG](/documentation/images/Generate-SVG.png)
 
 5. Download Generated SVG File
 
-![Download Generated SVG](/scripts/images/Downalod-Generated-SVG.png)
+![Download Generated SVG](/documentation/images/Download-Generated-SVG.png)
 
 6. Rename the downloaded file to `logo.svg`
 
@@ -128,7 +128,7 @@ Update the `manifest.json` like below :
 
 1. Delete the following code block in `App.tsx` File.
 
-![Delete Code Block of App.tsx 1](/scripts/images/Code-Refactor-1.png)
+![Delete Code Block of App.tsx 1](/documentation/images/Code-Refactor-1.png)
 
 2. Rename the `<div></div>` to `<main></main>` HTML Tag Element as shown below : 
-![Change DIV To MAIN HTML Tag Element](/scripts/images/Code-Refactor-2.png)
+![Change DIV To MAIN HTML Tag Element](/documentation/images/Code-Refactor-2.png)
