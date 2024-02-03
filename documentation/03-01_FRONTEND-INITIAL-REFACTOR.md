@@ -124,11 +124,26 @@ Update the `manifest.json` like below :
 
 7. Move the file to `frontend/src/` Directory
 
-## Code Refactorization
+## Code Refactorization 🧑‍💻
 
-1. Delete the following code block in `App.tsx` File.
+Refactor the code of `App.tsx` file like the following : 
 
-![Delete Code Block of App.tsx 1](/documentation/images/Code-Refactor-1.png)
+✅&emsp;Delete the code block inside `<header>` Tag
 
-2. Rename the `<div></div>` to `<main></main>` HTML Tag Element as shown below : 
-![Change DIV To MAIN HTML Tag Element](/documentation/images/Code-Refactor-2.png)
+✅&emsp;Remove the Unnecessary Imports (Logo Image File Import)
+
+✅&emsp;Rename the `<div></div>` to `<main></main>` HTML Semantic Tag Element
+
+✅&emsp;Change the normal function to JavaScript `Arrow` Function
+
+✅&emsp;Use Named Export
+
+![App.tsx](/documentation/images/code.png)
+
+✅&emsp;Refactor the code of `App.test.tsx` file by using `Named Export` as shown below : 
+
+![App.test.tsx](/documentation/images/code-app-test.png)
+
+✅&emsp;Refactor the code of `index.tsx` file by using `Named Export` as shown below : 
+
+![index.tsx](/documentation/images/code-index.png)
