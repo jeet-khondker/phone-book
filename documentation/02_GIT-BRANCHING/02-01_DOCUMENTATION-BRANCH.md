@@ -4,7 +4,7 @@ The purpose of this file is to document the workflow of the Git operations for t
 
 ## 🔥 Pre-Requisite
 
-Make Sure you have completed the workflow of the file `01_INITIAL-SETUP.md` inside `scripts` Directory.
+Make Sure you have completed the workflow of the file `01_INITIAL-SETUP.md` inside `documentation` Directory.
 
 ## Creating a new branch `documentation`
 
@@ -20,7 +20,7 @@ git push origin documentation
 
 ## Protection of the `dev` Branch in Github
 
-![Protection of the `dev` Branch in Github](/scripts/images/Protecting-Branch-In-Git.png)
+![Protection of the `dev` Branch in Github](/documentation/images/Protecting-Branch-In-Git.png)
 
 - Click `Create` Button
 - Enter Your Github Password
