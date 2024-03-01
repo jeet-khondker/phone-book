@@ -4,7 +4,7 @@ The purpose of this file is to document the workflow of the Git operations for t
 
 ## 🔥 Pre-Requisites
 
-Make Sure you have completed the workflow of the file `01_INITIAL-SETUP.md` inside `scripts` Directory.
+Make Sure you have completed the workflow of the file `01_INITIAL-SETUP.md` inside `documentation` Directory.
 
 ## Creating a new branch `data`
 
@@ -24,7 +24,7 @@ git push origin data
 git checkout data
 ```
 
-## Pushing the code to Remote Branch `frontend` (For the 1st Time)
+## Pushing the code to Remote Branch `data` (For the 1st Time)
 
 ```sh
 git push
