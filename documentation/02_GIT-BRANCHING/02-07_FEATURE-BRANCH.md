@@ -4,7 +4,7 @@ The purpose of this file is to document the workflow of the Git operations for t
 
 ## 🔥 Pre-Requisites
 
-Make Sure you have completed the workflow of the file `01_INITIAL-SETUP.md` inside `scripts` Directory.
+Make Sure you have completed the workflow of the file `01_INITIAL-SETUP.md` inside `documentation` Directory.
 
 ## Creating a new branch `feature`
 
