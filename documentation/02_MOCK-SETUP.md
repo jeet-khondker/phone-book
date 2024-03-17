@@ -36,13 +36,19 @@ yarn global add json-server
 
 Project-Based Installation installs JSON Server locally for just a particular project.
 
-#### Using NPM (Node Package Modules) Package Manager
+#### Navigate to the `frontend` Directory
+
+```sh
+cd frontend
+```
+
+#### Using NPM (Node Package Modules) Package Manager to install JSCON Server Library Package & its Dependencies
 
 ```sh
 npm install json-server
 ```
 
-#### Using Yarn Package Manager
+#### Using Yarn Package Manager to install JSCON Server Library Package & its Dependencies
 
 ```sh
 yarn add json-server
